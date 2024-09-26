@@ -31,9 +31,9 @@
 <div style="text-align: center;" align="center">
   <h3>GitHub Stats</h3>
   <br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusTome-Dev&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true">
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusTome-Dev&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true">
   
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTome-Dev&layout=compact&langs_count=16&theme=blue_navy">
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTome-Dev&layout=compact&langs_count=16&theme=blue_navy">
 </div>
 
 
