@@ -1,8 +1,8 @@
  ### Olá meu nome é Mateus Tomé
  <p>Olá rede, me apresento como desenvolvedor de sistemas. Desde criança já sabia que o meu percurso profissional estaria ligado a esta área. Estou vivenciando a realização de um sonho e acredito que contribuirei significativamente para o avanço da tecnologia. No âmbito laboral destaco a importância da aprendizagem contínua, o meu gosto por desafios e por enfrentar problemas é indescritível, sendo assim capaz de desenhar soluções inovadoras.</p>
 
+<img align="right" alt="" height="190px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 
- 
 <h3 align="left">Conecte-se comigo</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=000DFF&color:FFF)](mailto:mateustomedossantos@gmail.com)
