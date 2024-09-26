@@ -1,7 +1,7 @@
-### Olá meu nome é Mateus Tomé
+ ### Olá meu nome é Mateus Tomé
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=000DFF&color:FFF)](mailto:mateustomedossantos@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=linkedin&logoColor=000DFF&color:FFF)](mailto:mateustomedossantos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=000DFF&color:FFF)](https://www.linkedin.com/in/mateus-tomé-dos-santos/)
 
 <h3 align="left">My Stack ~</h3>
