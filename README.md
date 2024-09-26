@@ -1,12 +1,14 @@
  ### Olá meu nome é Mateus Tomé
  <p>Olá rede, me apresento como desenvolvedor de sistemas. Desde criança já sabia que o meu percurso profissional estaria ligado a esta área. Estou vivenciando a realização de um sonho e acredito que contribuirei significativamente para o avanço da tecnologia. No âmbito laboral destaco a importância da aprendizagem contínua, o meu gosto por desafios e por enfrentar problemas é indescritível, sendo assim capaz de desenhar soluções inovadoras.</p>
+
+
  
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Conecte-se comigo</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=000DFF&color:FFF)](mailto:mateustomedossantos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=000DFF&color:FFF)](https://www.linkedin.com/in/mateus-tomé-dos-santos/)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Minhas Habilidades</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
